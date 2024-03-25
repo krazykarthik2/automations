@@ -1,0 +1,9 @@
+
+FUNCTION Main_copy GLOBAL
+    WebAutomation.LaunchChrome.AttachToChromeByUrl TabUrl: $fx'="https://www.fotor.com/rewards/"' AttachTimeout: $fx'=5' BrowserInstance=> rewards
+ON ERROR LaunchChromeError
+    CALL 'launch Rewards'
+    THROW ERROR
+END
+    CALL click__buttons
+END FUNCTION
