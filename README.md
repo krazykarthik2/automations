@@ -34,8 +34,10 @@ they are case-sensitive
 > |------------------------	|-----	|-----	|--------------	|-----|
 > | INeedImageAI.flow      	| no  	| yes 	| RewardsFotor 	| It will open a new fotor account. with a fake email and password.And it will then claim the rewards for you automatically.(https://fotor.com)[fotor] is an ai image generation service website.
 > | skipadocr.flow         	| no  	| no  	|              	| It will skip ads in youtube with the help of OCR.meaning it will recognise the text skip and then it will click it by moving the cursor to the skip just like a human would.(Warning: it will click anything that has the word skip in it.Use with caution)
-> | ytvideodownloader.flow 	| no  	| no  	|              	|When a youtube video is playing in the current tab in foreground, it will copy the link of youtube video and it will go to the ssyoutube.com website and it will download the video from that site)
+> | ytvideodownloader.flow 	| no  	| no  	|              	|When a youtube video is playing in the current tab in foreground, it will copy the link of youtube video and it will go to the ssyoutube.com website and it will download the video from that site
+> | instavideodownloader.flow 	| no  	| no  	|              	|When a insta video is playing in the current tab in foreground, it will copy the link of insta video and it will go to the fastdl.com website and it will download the video from that site
 > | RewardsFotor           	| yes 	| yes 	|              	|It will claim the rewards from the fotor.com site quickly
+
 
 # Personal Note
 
