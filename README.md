@@ -37,7 +37,6 @@ they are case-sensitive
 > | ytvideodownloader.flow 	| no  	| no  	|              	|When a youtube video is playing in the current tab in foreground, it will copy the link of youtube video and it will go to the ssyoutube.com website and it will download the video from that site
 > | instavideodownloader.flow 	| no  	| no  	|              	|When a insta video is playing in the current tab in foreground, it will copy the link of insta video and it will go to the fastdl.com website and it will download the video from that site
 > | RewardsFotor           	| yes 	| yes 	|              	|It will claim the rewards from the fotor.com site quickly
-
 > | find-student-ems.flow      	| no 	| no	|   it will find based on search string and performs the routine not needed for every 
 
 # Personal Note
