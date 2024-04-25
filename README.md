@@ -60,3 +60,7 @@ Please, share any issues with the flows
 Contact me for any improvements.
 # qr-art
 ![qr code](/qr.png "my qr art\n  hope you like it!")
+
+
+# fallback qr
+![fall back qr](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fgithub.com%2Fkrazykarthik2%2Fautomations "fallback only")
