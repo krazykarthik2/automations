@@ -58,3 +58,5 @@ So, I made this repo to share these files and make everyone's life a bit better
 Please, share any issues with the flows
 
 Contact me for any improvements.
+# qr-art
+![qr code](/qr.png "my qr art\n  hope you like it!")
